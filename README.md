@@ -5,7 +5,7 @@ My name is mini and i am a discord bot dev.
 
 ## 💬Contact 
 
-You can contact me on [my discord server](https://pip.pypa.io/en/stable/).
+You can contact me on [my discord server]().
 &nbsp;
 
 You can also checkout [my twitch](https://www.twitch.tv/youthfulslinky2) I do code streams
