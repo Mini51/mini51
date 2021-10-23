@@ -1,17 +1,7 @@
+# Mini#5130
+![Mini's GitHub stats](https://github-readme-stats.vercel.app/api?username=youthfulslinky&theme=nord&show_icons=true)
 
-# 📝About me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youthfulslinky&theme=nord&layout=compact)
 
-My name is mini and i am a discord bot dev.
-
-## 💬Contact 
-
-You can contact me on [my discord server]().
-&nbsp;
-
-You can also checkout [my twitch](https://www.twitch.tv/youthfulslinky2) I do code streams
-&nbsp;
-
-
-## Branching
-
-All my  work can be Branched if you were looking for something similar.
+# currently working on 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youthfulslinky&repo=AVGB-Public&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
