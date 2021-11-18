@@ -4,4 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youthfulslinky&theme=nord&layout=compact)
 
 # currently working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youthfulslinky&repo=AVGB-Public&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/youthfulslinky/AVGB-Public)
