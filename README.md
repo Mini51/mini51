@@ -1,6 +1,7 @@
 
 <h1 align='center'>Hi, I'm Mini</h1>
-<h2 align='center'>I make discord tools to make your experince better</h2>
+<h3 align='center'>I make discord tools to make your experince better</h2>
+<br>
 
 
 
@@ -10,8 +11,8 @@ About me and what am I doing.
 - ⚒️ I'm currently working on discord tools.
 
 - 📖 I'm currently learning python.
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mini51&label=Profile%20views&color=a143df&style=flat" alt="mini51" /></p>
-
 <h1 align='center'> My Recent work</h1>
 
  
