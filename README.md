@@ -23,9 +23,9 @@ About me and what am I doing.
 
 <br>
 
-<h1 align='center'> My Recent work</h1>
+<h1 align='center'> My work</h1>
 
  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=AVGB-Public&theme=nord)](https://github.com/youthfulslinky/AVGB-Public)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=Discord-FriendLog&theme=nord)](https://github.com/youthfulslinky/Discord-FriendLog)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=DiscordRPC&theme=nord)](https://github.com/youthfulslinky/DiscordRPC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=AVGB-Public&theme=nord)](https://github.com/youthfulslinky/AVGB-Public)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=Discord-FriendLog&theme=nord)](https://github.com/Mini51/Discord-Companion)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=DiscordRPC&theme=nord)](https://github.com/youthfulslinky/DiscordRPC)
 
