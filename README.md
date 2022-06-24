@@ -1,6 +1,6 @@
 
 <h1 align='center'>Hi, I'm Mini</h1>
-<h3 align='center'>I make discord tools to make your experience better</h2>
+<h3 align='center'>I make discord tools to make your experience better</h3>
 <br>
 
 
