@@ -8,10 +8,6 @@
 
 About me and what am I doing.   
 - 🏫 I'm currently in school for computer science.
-  
-- ⚒️ I'm currently working on discord tools.
-
-- 📖 I'm currently learning python.
 
 
 
