@@ -24,7 +24,7 @@ About me and what am I doing.
 
  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=AVGB-Public&theme=nord)](https://github.com/youthfulslinky/AVGB-Public)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=Discord-FriendLog&theme=nord)](https://github.com/Mini51/Discord-Companion)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=DiscordRPC&theme=nord)](https://github.com/youthfulslinky/DiscordRPC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=Discord-FriendLog&theme=nord)](https://github.com/Mini51/Discord-Companion)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=DiscordRPC&theme=nord)](https://github.com/youthfulslinky/DiscordRPC)
 
 <h1 align='center'>Stats</h1>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Mini51/938bf499-37be-4b75-a3f4-2e32a69b4e27.png" /></a>
