@@ -1,6 +1,6 @@
 
 <h1 align='center'>Hi, I'm Mini</h1>
-<h3 align='center'>I am backend developer that loves learning new things.
+<h3 align='center'>I love pretty much anything computer science related.
 </h3>
 <br>
 
