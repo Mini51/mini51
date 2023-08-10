@@ -20,9 +20,14 @@ About me and what am I doing.
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/></a>
 <br>
 
-<h1 align='center'> My work</h1>
+<h1 align='center'> My Stats </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=Discord-FriendLog&theme=nord)](https://github.com/Mini51/Discord-Companion)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mini51&repo=DiscordRPC&theme=nord)](https://github.com/youthfulslinky/DiscordRPC)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mini51" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mini51&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<h1 align='center'>Stats</h1>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Mini51/938bf499-37be-4b75-a3f4-2e32a69b4e27.png" /></a>
+
+
